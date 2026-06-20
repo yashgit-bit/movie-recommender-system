@@ -5,6 +5,10 @@ A content-based movie recommendation system built using Python, Streamlit, and t
 This project recommends similar movies based on content similarity using Natural Language Processing (NLP) and cosine similarity.
 
 ---
+## Live Demo
+
+🚀 Try the app here: https://movie-recommender-by-yash.streamlit.app/
+
 
 ## 🚀 Features
 
@@ -130,7 +134,7 @@ Deployed using Streamlit Community Cloud.
 
 ---
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 
-Built by Yash Joshi
-Aspiring AI/ML Engineer
+**Built by Yash Joshi**  
+*Aspiring AI/ML Engineer*
